@@ -1,0 +1,62 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilo para cabeçalho */
+#cabecalho {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Estilo para imagem */
+#imagem-pavao {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* Estilo para o rodapé */
+#rodape {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Estilo para as seções */
+.secao {
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #111;
+    border-radius: 10px;
+}
+
+/* Título das seções */
+.titulo-secao {
+    color: #1e90ff;
+}
+
+/* Lista de habilidades */
+.lista-habilidades {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Links */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Linha divisória */
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #444;
+    margin: 40px 0;
+}
